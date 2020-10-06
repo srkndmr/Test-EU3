@@ -1,2 +1,8 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+Added more stuff of my own
+Changes changes changes
+This is not my remote repo but i want to push
+But i do not have access
+easiest solution? Fork it
